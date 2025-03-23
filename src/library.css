@@ -1,22 +1,25 @@
 /* Library search bar */
 ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
-  background: var(--primary-bg-color);
+  background: var(--slate);
 }
 
 /* All banner/button */
 ._2sYIghGVXJr6tsQVvcryy8,
+._2sYIghGVXJr6tsQVvcryy8:active,
+._2sYIghGVXJr6tsQVvcryy8:hover,
+._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:active,
+._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:hover,
 ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5 {
-  background: var(--primary-bg-color);
-  border-bottom: 1px solid var(--secondary-bg-color);
+  background: var(--secondary-bg-color);
 }
 
-._2sYIghGVXJr6tsQVvcryy8:hover {
+._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:hover {
   background: var(--secondary-bg-color);
 }
 
 /* All banner/button svg */
 ._3cV3O8FnPQqpJO5kIMUlLX {
-  color: black;
+  color: white;
 }
 
 /* All banner/button text */

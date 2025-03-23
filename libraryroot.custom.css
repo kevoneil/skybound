@@ -9,6 +9,7 @@
  :root {
   --primary-bg-color: #d2dce9;
   --secondary-bg-color: #393939;
+  --slate: #828282;
   --border-radius: 12px;
   --accent-color: rgba(115, 115, 186, 0.642);
  }
