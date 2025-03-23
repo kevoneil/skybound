@@ -1,0 +1,57 @@
+/* play button */
+._3ydigb6zZAjJ0JCDgHwSYA {
+  border-radius: var(--border-radius);
+}
+
+/* play button icon */
+._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
+  fill: white;
+}
+
+
+/* search bar */
+._34lrt5-Fc3usZU6trA1P0-,
+._2TYVGoD27ZMfjRirKQNLfk, ._3pS8kMrtScuY1Qf-W8tmRV ._1nfJNsQjTOXSQQyFahGnRi {
+  color: var(--secondary-bg-color);
+}
+
+/* bar under Hero image */
+.QlR9EFwTdUNm_J5vx54_Z,
+._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
+  background: var(--primary-bg-color);
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+}
+
+/** game details SVGs */
+._3qDWQGB0rtwM3qpXTb11Q- svg {
+  fill: var(--secondary-bg-color);
+  color: var(--secondary-bg-color);
+}
+
+/** SVGs */
+._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
+  fill: var(--accent-color);
+  color: var(--accent-color);
+}
+
+/** game social menu */
+._25f0fX6qbgdB7O_lMrbhCN,
+._3-V8vjmrwuJM6Ws3tsjFJj {
+  background: var(--primary-bg-color);
+}
+
+/** game social menu text */
+.DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w {
+  color: black;
+}
+
+/**
+ ACTIVITY
+ NEWS
+ CONTROLLER
+ FRIENDS WHO PLAY
+**/
+.OhSdLYuggDtBcWjYP0j_9 {
+  background: var(--primary-bg-color);
+}

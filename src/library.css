@@ -1,12 +1,12 @@
 /* Library search bar */
 ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
-  background: var(--main-bg-color);
+  background: var(--primary-bg-color);
 }
 
 /* All banner/button */
 ._2sYIghGVXJr6tsQVvcryy8,
 ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5 {
-  background: var(--main-bg-color);
+  background: var(--primary-bg-color);
   border-bottom: 1px solid var(--secondary-bg-color);
 }
 
@@ -24,11 +24,6 @@
   color: black;
 }
 
-/* bar under Hero image */
-.QlR9EFwTdUNm_J5vx54_Z,
-._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
-  background: var(--main-bg-color);
-}
 
 /* Game Profile -- Home and Collections Menu */
 ._3pSPluBgf0NeR1kkCLWMhR,
@@ -49,7 +44,7 @@
 
 /* Game Profile -- changes game library list */
 ._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
-  background: var(--main-bg-color);
+  background: var(--primary-bg-color);
 }
 
 /* Game Profile -- game list item not highlighted */
@@ -70,48 +65,4 @@
 
 ._2-O4ZG0KrnSrzISHBKctFQ {
   color: var(--secondary-bg-color);
-}
-
-/* Game Profile -- play button */
-._3ydigb6zZAjJ0JCDgHwSYA {
-  border-radius: var(--border-radius);
-}
-
-/* Game Profile -- play button icon */
-._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
-  fill: white;
-}
-
-
-/* Game Profile -- space required */
-._34lrt5-Fc3usZU6trA1P0-,
-._2TYVGoD27ZMfjRirKQNLfk, ._3pS8kMrtScuY1Qf-W8tmRV ._1nfJNsQjTOXSQQyFahGnRi {
-  color: var(--secondary-bg-color);
-}
-
-/** Game Profile -- SVGs */
-._3qDWQGB0rtwM3qpXTb11Q- svg {
-  fill: var(--secondary-bg-color);
-  color: var(--secondary-bg-color);
-}
-
-/** Game Details -- SVGs */
-._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
-  fill: var(--accent-color);
-  color: var(--accent-color);
-}
-
-/** Game Details -- game social menu */
-._25f0fX6qbgdB7O_lMrbhCN,
-._3-V8vjmrwuJM6Ws3tsjFJj {
-  background: var(--secondary-bg-color);
-}
-
-._3-V8vjmrwuJM6Ws3tsjFJj {
-  background: var(--main-bg-color);
-}
-
-/** Game Details -- game social menu text */
-.DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w {
-  color: white;
 }

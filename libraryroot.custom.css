@@ -4,9 +4,10 @@
  */
  @import url("./src/header.css");
  @import url("./src/library.css");
+ @import url("./src/game.css");
 
  :root {
-  --main-bg-color: #d2dce9;
+  --primary-bg-color: #d2dce9;
   --secondary-bg-color: #393939;
   --border-radius: 12px;
   --accent-color: rgba(115, 115, 186, 0.642);
