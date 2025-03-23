@@ -1,0 +1,138 @@
+/**
+ * @description This file styles all main steam windows
+ * [Steam, Settings, Properties, Popups, Dialogs, ...]
+ */
+
+ :root {
+  --main-bg-color: #d2dce9;
+  --secondary-bg-color: #393939;
+  --border-radius: 12px;
+  --accent-color: rgba(115, 115, 186, 0.642);
+ }
+
+ ._1ENHEsrSLcTRtPQFl1F-wL ._1DvwQt0JN-Ogp_4tVZdkzX
+._3lDczhulqraStjCitLYJ1K ._2l416KfEtI4CL0mCUEmOBw ._3FmxxjyWNHU1PrBGnBe6tm {
+  background: var(--main-bg-color);
+}
+
+.SVGIcon_Button {
+  fill: var(--secondary-bg-color) !important;
+}
+
+ /* Header Menu */ 
+._3Z7VQ1IMk4E3HsHvrkLNgo {
+  background: var(--main-bg-color);
+}
+
+/* Header Menu -- Menu options */
+._2UyOBeiSdBayaFdRa39N2O {
+  color: black;
+}
+
+/* Header Menu -- Large menu options */
+._7AlhCx3XGzBeIrQaCneUD ._19axKcqYRuaJ8vdYKYmtTQ {
+  color: black;
+}
+
+/* Changes bar color main menu */
+.RGNMWtyj73_-WdhflrmuY ._2CmrnGY-Amtd83ScJkFvx2 {
+  background: var(--main-bg-color);
+}
+
+/* Game Details -- Library search bar */
+._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
+  background: var(--secondary-bg-color);
+}
+
+/* Game details bar under Hero image */
+.QlR9EFwTdUNm_J5vx54_Z,
+._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
+  background: var(--main-bg-color);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+/* Game Profile -- Home and Collections Menu */
+._3pSPluBgf0NeR1kkCLWMhR,
+._2TKEazUUS3TlniZfpc8OOe,
+._3pSPluBgf0NeR1kkCLWMhR.eNLOx4LVceeMwRvTVWh3 {
+  background: none;
+}
+
+._3O48LaKWcabKx07xdrt1TH  {
+  color: black;
+}
+
+._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
+  background: var(--secondary-bg-color);
+}
+
+/* Game Profile -- changes game library list */
+._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
+  background: var(--main-bg-color);
+}
+
+/* Game Profile -- game list item not highlighted */
+._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph {
+  color: var(--secondary-bg-color);
+}
+
+/* Game Profile -- game list item highlighted */
+._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
+  background-color: var(--secondary-bg-color);
+  border-radius: 4px;
+}
+
+/* Game Profile -- game list item installed */
+._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {
+  color: var(--accent-color);
+}
+
+._2-O4ZG0KrnSrzISHBKctFQ {
+  color: var(--secondary-bg-color);
+}
+
+/* Game Profile -- play button */
+._3ydigb6zZAjJ0JCDgHwSYA {
+  border-radius: var(--border-radius);
+}
+
+/* Game Profile -- play button icon */
+._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
+  fill: white;
+}
+
+
+/* Game Profile -- space required */
+._34lrt5-Fc3usZU6trA1P0-,
+._2TYVGoD27ZMfjRirKQNLfk, ._3pS8kMrtScuY1Qf-W8tmRV ._1nfJNsQjTOXSQQyFahGnRi {
+  color: var(--secondary-bg-color);
+}
+
+/** Game Profile -- SVGs */
+._3qDWQGB0rtwM3qpXTb11Q- svg {
+  fill: var(--secondary-bg-color);
+  color: var(--secondary-bg-color);
+}
+
+/** Game Details -- SVGs */
+._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
+  fill: var(--accent-color);
+  color: var(--accent-color);
+}
+
+/** Game Details -- game social menu */
+._25f0fX6qbgdB7O_lMrbhCN,
+._3-V8vjmrwuJM6Ws3tsjFJj {
+  background: var(--secondary-bg-color);
+  border-radius: var(--border-radius);
+}
+
+._3-V8vjmrwuJM6Ws3tsjFJj {
+  background: var(--main-bg-color);
+}
+
+/** Game Details -- game social menu text */
+.DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w {
+  color: white;
+}
