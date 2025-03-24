@@ -2,7 +2,7 @@
  * @description This file styles all main steam windows
  * [Steam, Settings, Properties, Popups, Dialogs, ...]
  */
- @import url("./src/header.css");
+ @import url("./src/supernav.css");
  @import url("./src/library.css");
  @import url("./src/game.css");
 
@@ -10,7 +10,7 @@
  :root {
   --primary-bg-color: #0E141B;
   --secondary-bg-color: #393939;
-  --slate: #828282;
+  --tetiary-bg-color: #212B45;
   --border-radius: 12px;
   --accent-color: #66C0F4;
  }

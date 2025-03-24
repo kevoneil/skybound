@@ -21,47 +21,47 @@
 } */
 
 /** play button other options */
-._2AzIX5kl9k6JnxLfR5H4kX._2q-gZ3XJzlvSGHSF-GvSmi {
+/* ._2AzIX5kl9k6JnxLfR5H4kX._2q-gZ3XJzlvSGHSF-GvSmi {
   border-radius: 50px;
-}
+} */
 
-._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS {
+/* ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS {
   border: 1px solid #c3c3c3;
-}
+} */
 
 /* search bar */
-._34lrt5-Fc3usZU6trA1P0-,
+/* ._34lrt5-Fc3usZU6trA1P0-,
 ._2TYVGoD27ZMfjRirKQNLfk, ._3pS8kMrtScuY1Qf-W8tmRV ._1nfJNsQjTOXSQQyFahGnRi {
   color: var(--secondary-bg-color);
-}
+} */
 
 /* game hero */
 /* .HNbe3eZf6H7dtJ042x1vM {
   mask: none;
 } */
 
-.HNbe3eZf6H7dtJ042x1vM ._3_IUVzR9tpG_JKEjhwXEAb {
+/* .HNbe3eZf6H7dtJ042x1vM ._3_IUVzR9tpG_JKEjhwXEAb {
 
-}
+} */
 
 /* bar under Hero image */
-.QlR9EFwTdUNm_J5vx54_Z,
+/* .QlR9EFwTdUNm_J5vx54_Z,
 ._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
   background: var(--primary-bg-color);
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
-}
+} */
 
 /* image under Hero image */
-.HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb {
+/* .HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb {
   display: none;
-}
+} */
 
 /* image under Hero image */
-.HNbe3eZf6H7dtJ042x1vM {
+/* .HNbe3eZf6H7dtJ042x1vM {
   height: 130%;
   mask: none;
-}
+} */
 
 /* .HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb, 
 .HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
@@ -84,34 +84,34 @@
 } */
 
 /** SVGs */
-._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
+/* ._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
   fill: var(--accent-color);
   color: var(--accent-color);
-}
+} */
 
 /** game social menu */
-._25f0fX6qbgdB7O_lMrbhCN,
+/* ._25f0fX6qbgdB7O_lMrbhCN,
 ._3-V8vjmrwuJM6Ws3tsjFJj {
   background: var(--primary-bg-color);
-}
+} */
 
 ._3Y87YQY56ZCOqhgcZFaDc5 {
   /* display: none; */
 }
 
 /** game ocial container */
-._1YbtIWcfkQJOysLXQbwzRf ._1mDAVT4sTzFRwJtlKCw2Ws {
+/* ._1YbtIWcfkQJOysLXQbwzRf ._1mDAVT4sTzFRwJtlKCw2Ws {
   position: fixed;
   top: -375px;
   left: 20px;
   border-radius: 50px;
-}
+} */
 
 /** game social menu text */
-.DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w,
+/* .DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w,
 ._3-V8vjmrwuJM6Ws3tsjFJj ._25f0fX6qbgdB7O_lMrbhCN {
   color: white;
-}
+} */
 
 /* ._2OOzYVWIHaKXm6_7sscT9i>div {
   border-top-left-radius: 12px;  
@@ -119,20 +119,20 @@
 } */
 
 /* Cloud Status */
-._2cRYms-zZc4misk9tj3bt8 {
+/* ._2cRYms-zZc4misk9tj3bt8 {
   background: var(--secondary-bg-color);
   border-radius: 50px;
   height: 30px;
-}
+} */
 
 /* Cloud Status text */
-._2TYVGoD27ZMfjRirKQNLfk ._1nfJNsQjTOXSQQyFahGnRi,
+/* ._2TYVGoD27ZMfjRirKQNLfk ._1nfJNsQjTOXSQQyFahGnRi,
 ._34lrt5-Fc3usZU6trA1P0- {
   display: none;
-}
+} */
 
 /* Achievements box */
-.UAhWiMg9Q2VPsQQBj_ikT {
+/* .UAhWiMg9Q2VPsQQBj_ikT {
   width: 150px;
   height: 30px;
   position: fixed;
@@ -141,20 +141,20 @@
   border-radius: 50px;
   padding-right: 10px;
   background-color: var(--secondary-bg-color);
-}
+} */
 
 /* Achievements icon */
-.UAhWiMg9Q2VPsQQBj_ikT svg {
+/* .UAhWiMg9Q2VPsQQBj_ikT svg {
   display: none;
-}
+} */
 
 /* Achievements box text */
-._34lrt5-Fc3usZU6trA1P0-, 
+/* ._34lrt5-Fc3usZU6trA1P0-, 
 ._2TYVGoD27ZMfjRirKQNLfk, 
 ._3pS8kMrtScuY1Qf-W8tmRV 
 ._1nfJNsQjTOXSQQyFahGnRi  {
   color: white;
-}
+} */
 
 /**
  ACTIVITY
@@ -163,31 +163,31 @@
  FRIENDS WHO PLAY
  Lower panel background
 **/
-._2OOzYVWIHaKXm6_7sscT9i .OhSdLYuggDtBcWjYP0j_9 {
+/* ._2OOzYVWIHaKXm6_7sscT9i .OhSdLYuggDtBcWjYP0j_9 {
   background: var(--primary-bg-color);
 }
 
 ._1_cYNJSvS6IXs9vLTEYjy5 {
   margin-top: 150px;
-}
+} */
 
 /** Controller panel **/
-._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal ._3KfxIwlXEvum7FCD_AM2_t .Panel,
+/* ._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal ._3KfxIwlXEvum7FCD_AM2_t .Panel,
 ._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal,
 ._31ptFGGMZrSQc5BCX1e5lm ._3KfxIwlXEvum7FCD_AM2_t {
   background: var(--secondary-bg-color);
   border-radius: 12px;
-}
+} */
 
 /** game details bar **/
-._1EAxK56o5a9Nieu5HYkJ4k {
+/* ._1EAxK56o5a9Nieu5HYkJ4k {
   position: relative;
   top: -96px;
   right: -18px;
   background: transparent;
   border-radius: 50px;
-}
+} */
 
-._3qDWQGB0rtwM3qpXTb11Q- svg {
+/* ._3qDWQGB0rtwM3qpXTb11Q- svg {
   color: white !important;
-} 
+}  */

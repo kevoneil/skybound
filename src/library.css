@@ -6,41 +6,41 @@
 
 /* Library search bar */
 ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
-  background: var(--primary-bg-color);
+  background: var(--tetiary-bg-color);
   color: black;
   border: none;
 }
 
 /** search bar hover **/
-._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase:hover {
+/* ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase:hover {
   background: var(--primary-bg-color);
   color: black;
   box-shadow: none;
-}
+} */
 
 /* All banner/button */
-._2sYIghGVXJr6tsQVvcryy8,
+/* ._2sYIghGVXJr6tsQVvcryy8,
 ._2sYIghGVXJr6tsQVvcryy8:active,
 ._2sYIghGVXJr6tsQVvcryy8:hover,
 ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:active,
 ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:hover,
 ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5 {
   background: var(--secondary-bg-color);
-}
+} */
 
-._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:hover {
+/* ._2sYIghGVXJr6tsQVvcryy8 .sXMOsx8OIRalBMxO9yFY5:hover {
   background: var(--secondary-bg-color);
-}
+} */
 
 /* All banner/button svg */
-._3cV3O8FnPQqpJO5kIMUlLX {
+/* ._3cV3O8FnPQqpJO5kIMUlLX {
   color: white;
-}
+} */
 
 /* All banner/button text */
-._3cV3O8FnPQqpJO5kIMUlLX {
+/* ._3cV3O8FnPQqpJO5kIMUlLX {
   color: black;
-}
+} */
 
 
 /* Game Profile -- Home and Collections Menu */
@@ -48,49 +48,58 @@
 ._3pSPluBgf0NeR1kkCLWMhR:hover,
 ._2TKEazUUS3TlniZfpc8OOe,
 ._3pSPluBgf0NeR1kkCLWMhR.eNLOx4LVceeMwRvTVWh3 {
-  background: none;
+  background: var(--tetiary-bg-color);
 }
+
+._2TKEazUUS3TlniZfpc8OOe {
+  width: 100px !important;
+    position: fixed;
+    width: 100%;
+    z-index: 400;
+    background: var(--tetiary-bg-color);
+}
+
 
 .eNLOx4LVceeMwRvTVWh3 ._3O48LaKWcabKx07xdrt1TH,
 ._3O48LaKWcabKx07xdrt1TH  {
-  color: black;
-}
+  color: white;
+} 
 
 /* Game and software container */
-._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
-  background: var(--secondary-bg-color);
+ ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
+  background: var(--tetiary-bg-color);
   position: absolute;
   left: 0;
-  bottom: 0;
+  bottom: -20px;
 }
 
 /* Game library list container */
-._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
+/* ._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
   height: calc(765px - 44px);
-}
+} */
 
 /* Game library list */
-._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
+/* ._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
   background: var(--primary-bg-color);
-}
+} */
 
 
 /* Game List item not highlighted */
-._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph {
+/* ._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph {
   color: var(--secondary-bg-color);
-}
+} */
 
 /* Game list item highlighted */
-._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
+/* ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
   background-color: var(--secondary-bg-color);
   border-radius: 4px;
-}
+} */
 
 /* Game Profile -- game list item installed */
-._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {
+/* ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {
   color: black;
-}
+} */
 
-._2-O4ZG0KrnSrzISHBKctFQ {
+/* ._2-O4ZG0KrnSrzISHBKctFQ {
   color: var(--secondary-bg-color);
-}
+} */
