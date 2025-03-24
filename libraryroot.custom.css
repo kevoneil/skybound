@@ -6,12 +6,13 @@
  @import url("./src/library.css");
  @import url("./src/game.css");
 
+
  :root {
-  --primary-bg-color: #d2dce9;
+  --primary-bg-color: #0E141B;
   --secondary-bg-color: #393939;
   --slate: #828282;
   --border-radius: 12px;
-  --accent-color: rgba(115, 115, 186, 0.642);
+  --accent-color: #66C0F4;
  }
 
 

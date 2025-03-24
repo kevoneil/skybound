@@ -56,21 +56,31 @@
   color: black;
 }
 
+/* Game and software container */
 ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
   background: var(--secondary-bg-color);
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
 
-/* Game Profile -- changes game library list */
+/* Game library list container */
+._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
+  height: calc(765px - 44px);
+}
+
+/* Game library list */
 ._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
   background: var(--primary-bg-color);
 }
 
-/* Game Profile -- game list item not highlighted */
+
+/* Game List item not highlighted */
 ._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph {
   color: var(--secondary-bg-color);
 }
 
-/* Game Profile -- game list item highlighted */
+/* Game list item highlighted */
 ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
   background-color: var(--secondary-bg-color);
   border-radius: 4px;
@@ -78,7 +88,7 @@
 
 /* Game Profile -- game list item installed */
 ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {
-  color: var(--accent-color);
+  color: black;
 }
 
 ._2-O4ZG0KrnSrzISHBKctFQ {
