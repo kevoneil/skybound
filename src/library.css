@@ -1,6 +1,21 @@
+/* library border */
+._276E6ijBpjMA2_iTxNhhjc {
+  width: 1px;
+  background-color: #c3c3c3;
+}
+
 /* Library search bar */
 ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
-  background: var(--slate);
+  background: var(--primary-bg-color);
+  color: black;
+  border: none;
+}
+
+/** search bar hover **/
+._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase:hover {
+  background: var(--primary-bg-color);
+  color: black;
+  box-shadow: none;
 }
 
 /* All banner/button */

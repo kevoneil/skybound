@@ -1,14 +1,28 @@
-/* play button */
-._1hhB2Wf7iExA15zh_lDQ_y ._3ydigb6zZAjJ0JCDgHwSYA,
-._3ydigb6zZAjJ0JCDgHwSYA {
+/* background */
+._2l416KfEtI4CL0mCUEmOBw {
+  background: var(--primary-bg-color);
+}
+
+/* play button container */
+._2zxzStp5qY5M1evOm8keES {
   position: relative;
   top: -82px;
   border-radius: 50px;
 }
 
+/* play button  */
+._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX {
+  border: 50px;
+}
+
 /* play button icon */
 ._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
   fill: white !important;
+}
+
+/** play button other options */
+._2AzIX5kl9k6JnxLfR5H4kX._2q-gZ3XJzlvSGHSF-GvSmi {
+  border-radius: 50px;
 }
 
 
@@ -19,9 +33,9 @@
 }
 
 /* game hero */
-.HNbe3eZf6H7dtJ042x1vM {
+/* .HNbe3eZf6H7dtJ042x1vM {
   mask: none;
-}
+} */
 
 .HNbe3eZf6H7dtJ042x1vM ._3_IUVzR9tpG_JKEjhwXEAb {
 
@@ -31,15 +45,40 @@
 .QlR9EFwTdUNm_J5vx54_Z,
 ._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
   background: var(--primary-bg-color);
-  border-top-left-radius: var(--border-radius);
-  border-top-right-radius: var(--border-radius);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
 }
 
+/* image under Hero image */
+.HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb {
+  display: none;
+}
+
+/* image under Hero image */
+.HNbe3eZf6H7dtJ042x1vM {
+  height: 130%;
+  mask: none;
+}
+
+/* .HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb, 
+.HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
+  display: none; 
+} */
+
+/* hero text */
+/* .A14yd24JRjhFI-Q1ae6tN {
+  top: 0;
+  height: 151%;
+  left: 0;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, var(--primary-bg-color) 100%)
+} */
+
+
 /** game details SVGs */
-._3qDWQGB0rtwM3qpXTb11Q- svg {
+/* ._3qDWQGB0rtwM3qpXTb11Q- svg {
   fill: var(--secondary-bg-color);
   color: var(--secondary-bg-color);
-}
+} */
 
 /** SVGs */
 ._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
@@ -53,10 +92,15 @@
   background: var(--primary-bg-color);
 }
 
+._3Y87YQY56ZCOqhgcZFaDc5 {
+  /* display: none; */
+}
+
 /** game ocial container */
 ._1YbtIWcfkQJOysLXQbwzRf ._1mDAVT4sTzFRwJtlKCw2Ws {
   position: fixed;
   top: -375px;
+  left: 20px;
   border-radius: 50px;
 }
 
@@ -66,11 +110,16 @@
   color: white;
 }
 
+/* ._2OOzYVWIHaKXm6_7sscT9i>div {
+  border-top-left-radius: 12px;  
+  border-top-right-radius: 12px;  
+} */
+
 /* Cloud Status */
 ._2cRYms-zZc4misk9tj3bt8 {
-  background: var(--primary-bg-color);
+  background: var(--secondary-bg-color);
   border-radius: 50px;
-  height: 55px;
+  height: 30px;
 }
 
 /* Cloud Status text */
@@ -81,12 +130,19 @@
 
 /* Achievements box */
 .UAhWiMg9Q2VPsQQBj_ikT {
-  background-color: var(--secondary-bg-color);
+  width: 150px;
+  height: 30px;
   position: fixed;
-  top: -375px;
+  top: -37px;
   right: 10px;
   border-radius: 50px;
   padding-right: 10px;
+  background-color: var(--secondary-bg-color);
+}
+
+/* Achievements icon */
+.UAhWiMg9Q2VPsQQBj_ikT svg {
+  display: none;
 }
 
 /* Achievements box text */
@@ -109,6 +165,26 @@
 }
 
 ._1_cYNJSvS6IXs9vLTEYjy5 {
+  margin-top: 150px;
+}
+
+/** Controller panel **/
+._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal ._3KfxIwlXEvum7FCD_AM2_t .Panel,
+._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal,
+._31ptFGGMZrSQc5BCX1e5lm ._3KfxIwlXEvum7FCD_AM2_t {
+  background: var(--secondary-bg-color);
+  border-radius: 12px;
+}
+
+/** game details bar **/
+._1EAxK56o5a9Nieu5HYkJ4k {
   position: relative;
-  top: 70px;
+  top: -96px;
+  right: -18px;
+  background: transparent;
+  border-radius: 50px;
+}
+
+._3qDWQGB0rtwM3qpXTb11Q- svg {
+  color: white !important;
 }

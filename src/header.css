@@ -1,3 +1,10 @@
+ 
+.RGNMWtyj73_-WdhflrmuY._3WJCt_OkjPA6npxOtguSt5 ._2CmrnGY-Amtd83ScJkFvx2,
+._1ENHEsrSLcTRtPQFl1F-wL._1DvwQt0JN-Ogp_4tVZdkzX {
+  background: none;
+  box-shadow: none;
+ }
+
  ._1ENHEsrSLcTRtPQFl1F-wL ._1DvwQt0JN-Ogp_4tVZdkzX
 ._3lDczhulqraStjCitLYJ1K ._2l416KfEtI4CL0mCUEmOBw ._3FmxxjyWNHU1PrBGnBe6tm {
   background: var(--primary-bg-color);
@@ -5,7 +12,13 @@
 
  /* Header Menu */ 
 ._3Z7VQ1IMk4E3HsHvrkLNgo {
+  height: 30px;
   background: var(--primary-bg-color);
+}
+
+/* Supernav Menu -- under menu */
+._2CmrnGY-Amtd83ScJkFvx2 {
+  display: none;
 }
 
 /* Header Menu -- Menu options */
@@ -16,6 +29,23 @@
 /* Header Menu -- Large menu options */
 ._7AlhCx3XGzBeIrQaCneUD ._19axKcqYRuaJ8vdYKYmtTQ {
   color: black;
+}
+
+/* Header Menu container -- STORE, LIBRARY ETC */
+._3Z3ohQ8-1NKnCZkbS6fvy {
+  position: relative;
+  bottom: 30px;
+  left: 420px; 
+  width: 500px;
+}
+
+/* Header Menu text -- STORE, LIBRARY ETC */
+._2Lu3d-5qLmW4i19ysTt2jT ._7AlhCx3XGzBeIrQaCneUD {
+  font-size: 14px;
+}
+
+._7AlhCx3XGzBeIrQaCneUD._1gqEjB5QsKT_NftD1dEsdZ:not(._2cO0HdvLEGAdhosLekWsmo) ._19axKcqYRuaJ8vdYKYmtTQ {
+
 }
 
 /* Changes bar color main menu */
