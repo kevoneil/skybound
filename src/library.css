@@ -1,3 +1,9 @@
+/* under supernav */
+.RGNMWtyj73_-WdhflrmuY ._2CmrnGY-Amtd83ScJkFvx2 {
+  height: 45px;
+  background: var(--tetirary-bg-color);
+}
+
 /* library background */
 ._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
   background: #20252b;
@@ -71,13 +77,14 @@
 }
 
 ._2TKEazUUS3TlniZfpc8OOe {
-  width: 76%;
-  position: fixed;
-  left: 317px;
-  z-index: 400;
-  background: var(--tetiary-bg-color);
-  padding: 0;
   height: 32px;
+  padding: 0;
+  position: fixed;
+  top: 47px;
+  left: 1%;
+  background: var(--tetiary-bg-color);
+  box-shadow: none;
+  z-index: 400;
 }
 
 
