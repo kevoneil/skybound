@@ -11,11 +11,11 @@
 
 /* Library search bar container */
 ._20QAC4WMXm8qFE8waUT5oo {
+  width: 35%;
   position: fixed;
-  top: 35px;
+  top: 40.5px;
   left: 418px;
   z-index: 500;
-  width: 700px;
 }
 
 /* Library search bar */
@@ -71,10 +71,9 @@
 }
 
 ._2TKEazUUS3TlniZfpc8OOe {
-  width: 100px !important;
+  width: 76%;
   position: fixed;
-  left: 325px;
-  width: 100%;
+  left: 317px;
   z-index: 400;
   background: var(--tetiary-bg-color);
   padding: 0;
@@ -91,8 +90,8 @@
  ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
   background: var(--tetiary-bg-color);
   /* position: absolute; */
-  top: 0;
-  left: 0;
+  /* top: 0;
+  left: 0; */
   /* bottom: -20px; */
 }
 
