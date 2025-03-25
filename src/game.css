@@ -89,17 +89,16 @@
 } */
 
 
-/** game details SVGs */
-/* ._3qDWQGB0rtwM3qpXTb11Q- svg {
-  fill: var(--secondary-bg-color);
-  color: var(--secondary-bg-color);
-} */
+/** game details SVGs containers */
+._3qDWQGB0rtwM3qpXTb11Q-  {
+  background: transparent;
+}
 
-/** SVGs */
-/* ._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
+/* SVGs */
+._3qDWQGB0rtwM3qpXTb11Q- svg:hover {
   fill: var(--accent-color);
   color: var(--accent-color);
-} */
+}
 
 /** game social menu */
 /* ._25f0fX6qbgdB7O_lMrbhCN,
