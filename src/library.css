@@ -9,11 +9,25 @@
   background-color: #262C34;
 }
 
+/* Library search bar container */
+._20QAC4WMXm8qFE8waUT5oo {
+  position: fixed;
+  top: 35px;
+  left: 418px;
+  z-index: 500;
+  width: 700px;
+}
+
 /* Library search bar */
 ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
-  background: var(--tetiary-bg-color);
-  color: black;
+  background: var(--background-hover);
+  color: white;
   border: none;
+}
+
+.DialogInput_ClearAction svg {
+  fill: white !important;
+  color: white;
 }
 
 /** search bar hover **/
@@ -59,10 +73,12 @@
 ._2TKEazUUS3TlniZfpc8OOe {
   width: 100px !important;
   position: fixed;
-  left: 49px;
+  left: 325px;
   width: 100%;
   z-index: 400;
   background: var(--tetiary-bg-color);
+  padding: 0;
+  height: 32px;
 }
 
 
