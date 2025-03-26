@@ -71,22 +71,12 @@
 /* image under Hero image */
 .HNbe3eZf6H7dtJ042x1vM {
   mask-image: linear-gradient(to top, transparent, var(--primary-bg-color));
-  /* background: var(--secondary-bg-color); */
 }
 
 /* .HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb, 
 .HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
   display: none; 
 } */
-
-/* hero text */
-/* .A14yd24JRjhFI-Q1ae6tN {
-  top: 0;
-  height: 151%;
-  left: 0;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, var(--primary-bg-color) 100%)
-} */
-
 
 /** game details SVGs containers */
 ._3qDWQGB0rtwM3qpXTb11Q-  {
@@ -174,7 +164,7 @@ background: var(--primary-bg-color);
 } 
 
 ._1_cYNJSvS6IXs9vLTEYjy5 {
-margin-top: 75px;
+margin-top: 50px;
 } 
 
 /** Controller panel **/
