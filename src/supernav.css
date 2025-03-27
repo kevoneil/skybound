@@ -33,7 +33,9 @@
   display: none;
 }
 
+/** STORE LIBRARY header nav items container */
 ._2D64jIEK7wpUR_NlObDW76 {
-  position: relative;
-  top: -3px;
+  position: fixed;
+  top: px;
+  left: 34%;
 }
