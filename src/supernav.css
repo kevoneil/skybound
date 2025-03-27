@@ -34,8 +34,30 @@
 }
 
 /** STORE LIBRARY header nav items container */
-._2D64jIEK7wpUR_NlObDW76 {
+._39oUCO1OuizVPwcnnv88no ._30vB9DdsPK7VrZAbb5Q1Av {
+  height: 35px;
   position: fixed;
-  top: px;
-  left: 34%;
+  top: 7px;
+  left: 32%;
+}
+
+/** STORE LIBRARY nav arrows */
+._2D64jIEK7wpUR_NlObDW76 {
+  margin-left: 220px;
+}
+
+/** STORE LIBRARY nav arrows */
+._25lBLzuVeYAUG279up4xP8 svg {
+  position: relative;
+  bottom: 6px;
+}
+
+/** NOTIFICATIONS, PROFILE IMAGE container */
+._3cykd-VfN_xBxf3Qxriccm {
+  margin-left: auto !important;
+}
+
+/** profile picture */
+._3yD46y5pd3zOGR7CzKs0mC .online img {
+  border-radius: 50%;  
 }
