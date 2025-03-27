@@ -12,7 +12,7 @@
 
 ._3Z3ohQ8-1NKnCZkbS6fvy {
   position: absolute;
-  top: 8px;
+  top: 5px;
   left: 276px;
 }
  
@@ -49,7 +49,7 @@
 /** STORE LIBRARY nav arrows */
 ._25lBLzuVeYAUG279up4xP8 svg {
   position: relative;
-  bottom: 6px;
+  bottom: 10px;
 }
 
 /** NOTIFICATIONS, PROFILE IMAGE container */
@@ -58,6 +58,22 @@
 }
 
 /** profile picture */
-._3yD46y5pd3zOGR7CzKs0mC .online img {
+.online img {
   border-radius: 50%;  
+}
+
+._3yD46y5pd3zOGR7CzKs0mC.offline,
+._3yD46y5pd3zOGR7CzKs0mC.online {
+  background: none;
+}
+
+/** profile picture name, border */
+.offline ._3xUpb5DWXPFNcHHIcv-9pe,
+.offline > div:nth-child(2),
+.offline svg,
+.online ._3xUpb5DWXPFNcHHIcv-9pe,
+.online > div:nth-child(2),
+.online svg {
+  display: none;
+  background: none;
 }
