@@ -92,7 +92,7 @@ polygon,
 
 /** game social menu */
 ._31ptFGGMZrSQc5BCX1e5lm._3KfxIwlXEvum7FCD_AM2_t {
-  background-color: var(--tetiary-b-color);
+  background-color: #313843;
   border: none;
 }
 
@@ -131,28 +131,10 @@ polygon,
   border-radius: 50%;
 }
 
-/* Cloud Status */
-/* ._2cRYms-zZc4misk9tj3bt8 {} */
-
-/* Cloud Status text */
-/* ._2TYVGoD27ZMfjRirKQNLfk ._1nfJNsQjTOXSQQyFahGnRi,
-._34lrt5-Fc3usZU6trA1P0- {
-  display: none;
-} */
-
-/* Achievements box */
-/* .UAhWiMg9Q2VPsQQBj_ikT {
-} */
-
-/* Achievements icon */
-/* .UAhWiMg9Q2VPsQQBj_ikT svg  } */
-
-/* Achievements box text */
-/* ._34lrt5-Fc3usZU6trA1P0-, 
-._2TYVGoD27ZMfjRirKQNLfk, 
-._3pS8kMrtScuY1Qf-W8tmRV 
-._1nfJNsQjTOXSQQyFahGnRi  {
-} */
+/** notes container */
+._5uvIN6jXDXzzck59F-nhv {
+  background: #313843;
+}
 
 /**
 ACTIVITY
@@ -174,15 +156,22 @@ border-radius: 12px;
 border: none;
 }
 
-/** game details bar **/
-/* ._1EAxK56o5a9Nieu5HYkJ4k {
-  position: relative;
-  top: -96px;
-  right: -18px;
-  background: transparent;
-  border-radius: 50px;
-} */
+/* Cloud Status */
+/* ._2cRYms-zZc4misk9tj3bt8 {} */
 
-/* ._3qDWQGB0rtwM3qpXTb11Q- svg {
-  color: white !important;
-}  */
+/* Cloud Status text */
+/* ._2TYVGoD27ZMfjRirKQNLfk ._1nfJNsQjTOXSQQyFahGnRi,
+._34lrt5-Fc3usZU6trA1P0- {} */
+
+/* Achievements box */
+/* .UAhWiMg9Q2VPsQQBj_ikT {} */
+
+/* Achievements icon */
+/* .UAhWiMg9Q2VPsQQBj_ikT svg  } */
+
+/* Achievements box text */
+/* ._34lrt5-Fc3usZU6trA1P0-, 
+._2TYVGoD27ZMfjRirKQNLfk, 
+._3pS8kMrtScuY1Qf-W8tmRV 
+._1nfJNsQjTOXSQQyFahGnRi  {
+} */
