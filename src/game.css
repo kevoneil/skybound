@@ -40,8 +40,6 @@ polygon,
 /** play button text **/
 ._3ydigb6zZAjJ0JCDgHwSYA ._33cnXIqTRgRr49_FNXIHj6 {
   color: black;
-  font-size: 14px;
-  font-weight: bold;
 }
 
 /* search bar */
@@ -119,16 +117,31 @@ polygon,
   background: var(--primary-bg-color);
 }
 
-/** recent achievments container */
-.UVeN0kaD3zv1feMj_mMw5 .NEMXhMlqXOCJwfgWlHXhT {
-  margin-left: 0;
-  margin-top: 8px;
+/** recent achievements container */
+._2xTb6N-jUUQ-mIkMB6OVMm {
   border-radius: var(--border-radius);
 }
 
-/** recent achievments profile picture */
+/** recent achievements inner container */
+.UVeN0kaD3zv1feMj_mMw5 .NEMXhMlqXOCJwfgWlHXhT {
+  margin-left: 0;
+  margin-top: 8px;
+}
+
+/** ACTIVITY -- background */
+._5uvIN6jXDXzzck59F-nhv ._2EEApFUXB7aWXBtitgV5dk {
+  background: var(--primary-bg-color);
+}
+
+/** ACTIVITY -- profile picture */
 ._3h-QRJGxnVOIExtHD1R0f2 {
   border-radius: 50%;
+  box-shadow: none;
+}
+
+/** ACTIVITY -- profile picture */
+._3xUpb5DWXPFNcHHIcv-9pe.right {
+  display: none;
 }
 
 /** notes container */
@@ -149,6 +162,11 @@ Lower panel background
 background: var(--primary-bg-color);
 } 
 
+/** bannana **/
+._31ptFGGMZrSQc5BCX1e5lm > ._5uvIN6jXDXzzck59F-nhv {
+  background: var(--primary-bg-color);
+}
+
 /** Controller panel **/
 ._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal ._3KfxIwlXEvum7FCD_AM2_t .Panel,
 ._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal,
@@ -157,6 +175,11 @@ background: var(--secondary-bg-color);
 border-radius: var(--border-radius);
 border: none;
 }
+
+/********* 
+  ARCHIVED STYLES 
+  Saved for use later or in other themes
+*********/
 
 /* Cloud Status */
 /* ._2cRYms-zZc4misk9tj3bt8 {} */
