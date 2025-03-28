@@ -62,6 +62,7 @@
   border-radius: 50%;  
 }
 
+/** profile picture container */
 ._3yD46y5pd3zOGR7CzKs0mC.offline,
 ._3yD46y5pd3zOGR7CzKs0mC.online {
   background: none;
@@ -76,4 +77,11 @@
 .online svg {
   display: none;
   background: none;
+}
+
+/** announcements and notifications container */
+.RtSv39ZoBOySnb8XQ5hJf,
+._5wILZhsLODVwGfcJ0hKmJ {
+  background: none;
+  padding-right: 0;
 }
