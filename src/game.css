@@ -1,3 +1,8 @@
+/** body background */
+div.HighPerfMode ._2l416KfEtI4CL0mCUEmOBw {
+  background: var(--primary-bg-color);
+}
+
 /** image hero blur */
 ._2OOzYVWIHaKXm6_7sscT9i .Jbe--NUNw7sxbxGsMSjVa {
   background: linear-gradient(to bottom, transparent 3%, var(--primary-bg-color));
@@ -8,7 +13,7 @@
 }
 
 /* play button  */
-._1hhB2Wf7iExA15zh_lDQ_y ._3ydigb6zZAjJ0JCDgHwSYA,
+/* install  */
 ._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX {
   background: var(--accent-green);
 }
@@ -18,11 +23,14 @@
 }
 
 /* play button (play) svg */
+:not(._1Pb6PMh_3L5p5NzuUz0Pp9)>._2AzIX5kl9k6JnxLfR5H4kX svg,
 ._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
-
   fill: black !important;
 }
 
+/* play button (install) options svg */
+polygon,
+:not(._1Pb6PMh_3L5p5NzuUz0Pp9)>._2AzIX5kl9k6JnxLfR5H4kX svg,
 /* play button (install) svg */
 ._3ydigb6zZAjJ0JCDgHwSYA svg {
   fill: black !important;
@@ -71,11 +79,6 @@
   mask-image: linear-gradient(to top, transparent, var(--primary-bg-color));
 }
 
-/* .HNbe3eZf6H7dtJ042x1vM._3_IUVzR9tpG_JKEjhwXEAb, 
-.HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
-  display: none; 
-} */
-
 /** game details SVGs containers */
 ._3qDWQGB0rtwM3qpXTb11Q-  {
   background: transparent !important;
@@ -104,25 +107,29 @@
   border-radius: 8px;
 }
 
-/** friends who play box */
+/** friends who play container */
 ._31ptFGGMZrSQc5BCX1e5lm._2G5B7o_YoI__u11--EFjal {
-  background: none;
+  background: var(--primary-bg-color);
+  border-radius: 4px;
   outline: none;
 }
 
-/** game ocial container */
-/* ._1YbtIWcfkQJOysLXQbwzRf ._1mDAVT4sTzFRwJtlKCw2Ws {
-  position: fixed;
-  top: -375px;
-  left: 20px;
-  border-radius: 50px;
-} */
+/** News container **/
+._3yTl3RiWfo-Itg-xp967wP {
+  background: var(--primary-bg-color);
+}
 
-/** game social menu text */
-/* .DY4_wSF8h9T5o46hO5I9V ._1b6LYWVijW-9E4YV0keDWZ ._2sNDjgK9EWiPLdNGkjun-w,
-._3-V8vjmrwuJM6Ws3tsjFJj ._25f0fX6qbgdB7O_lMrbhCN {
-  color: white;
-} 
+/** recent achievments container */
+.UVeN0kaD3zv1feMj_mMw5 .NEMXhMlqXOCJwfgWlHXhT {
+  margin-left: 0;
+  margin-top: 8px;
+  border-radius: 8px;
+}
+
+/** recent achievments profile picture */
+._3h-QRJGxnVOIExtHD1R0f2 {
+  border-radius: 50%;
+}
 
 /* Cloud Status */
 /* ._2cRYms-zZc4misk9tj3bt8 {} */
@@ -155,7 +162,7 @@ FRIENDS WHO PLAY
 Lower panel background
 **/
 ._2OOzYVWIHaKXm6_7sscT9i .OhSdLYuggDtBcWjYP0j_9 {
-background: var(--tetiary-bg-color);
+background: var(--primary-bg-color);
 } 
 
 /** Controller panel **/
