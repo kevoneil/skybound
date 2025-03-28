@@ -104,13 +104,13 @@ polygon,
 /** game info container */
 ._25oBZpa3dUcMw8QAsa2u67._3s6_6sN8LyrlTHc_z6VfNU>div:not(._1FXWy2UilVZIppT-PetDWw) {
   background: var(--primary-bg-color);
-  border-radius: 8px;
+  border-radius: var(--border-radius);
 }
 
 /** friends who play container */
 ._31ptFGGMZrSQc5BCX1e5lm._2G5B7o_YoI__u11--EFjal {
   background: var(--primary-bg-color);
-  border-radius: 4px;
+  background: var(--primary-bg-color);
   outline: none;
 }
 
@@ -123,7 +123,7 @@ polygon,
 .UVeN0kaD3zv1feMj_mMw5 .NEMXhMlqXOCJwfgWlHXhT {
   margin-left: 0;
   margin-top: 8px;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
 }
 
 /** recent achievments profile picture */
@@ -134,6 +134,8 @@ polygon,
 /** notes container */
 ._5uvIN6jXDXzzck59F-nhv {
   background: #313843;
+  padding: 10px;
+  border-radius: var(--border-radius);
 }
 
 /**
@@ -152,7 +154,7 @@ background: var(--primary-bg-color);
 ._31ptFGGMZrSQc5BCX1e5lm ._2G5B7o_YoI__u11--EFjal,
 ._31ptFGGMZrSQc5BCX1e5lm ._3KfxIwlXEvum7FCD_AM2_t {
 background: var(--secondary-bg-color);
-border-radius: 12px;
+border-radius: var(--border-radius);
 border: none;
 }
 
