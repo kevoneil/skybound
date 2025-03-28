@@ -76,7 +76,7 @@
 
 /** game details SVGs containers */
 ._3qDWQGB0rtwM3qpXTb11Q-  {
-  background: transparent;
+  background: transparent !important;
 }
 
 /* SVGs */
@@ -87,10 +87,15 @@
 
 /** game social menu */
 ._31ptFGGMZrSQc5BCX1e5lm ._3KfxIwlXEvum7FCD_AM2_t {
+  background-color: var(--tetiary-b-color)
   border-radius: 12px;
 }
 
-  /* background: var(--primary-bg-color); */
+/** friends who play box */
+._31ptFGGMZrSQc5BCX1e5lm._2G5B7o_YoI__u11--EFjal {
+  background: none;
+  outline: none;
+}
 
 
 /** game ocial container */

@@ -1,3 +1,13 @@
 /**
  * @description This file styles the steam store
  */
+
+ /* Scrollbar */
+*::-webkit-scrollbar {
+  width: 14px !important;
+}
+
+ body.v6::-webkit-scrollbar {
+  background-color: rgb(var(--accent-color));
+  border-radius: 0 8px 8px 0;
+}

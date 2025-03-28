@@ -17,7 +17,7 @@
 
 /* Library search bar container */
 ._20QAC4WMXm8qFE8waUT5oo {
-  width: 35%;
+  width: 23%;
   position: fixed;
   top: 40.5px;
   left: 0;
@@ -86,8 +86,8 @@
 /* game catories container */
 ._1ZS_xta5HMXzR8JgxDH6n7 {
   position: fixed;
-  top: 38px;
-  right: 0;
+  top: 40.5px;
+  left: 25%;
   z-index: 400; 
 }
 
@@ -108,9 +108,20 @@
 }
 
 /* Game library list container */
-/* ._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
-  height: calc(765px - 44px);
-} */
+._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
+  scrollbar-width: 1px;
+  scrollbar-color: var(--accent-color) #20252b;
+} 
+
+._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid::-webkit-scrollbar {
+  /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
+  border-radius: 10px;
+}
+
+._2AUVZlzQq67qe3yhLZsPPB::-webkit-scrollbar {
+  background: transparent;
+}
+
 
 /* Game library list */
 /* ._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
