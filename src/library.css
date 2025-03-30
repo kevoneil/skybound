@@ -107,44 +107,15 @@
   background: none;
 }
 
-/* Game library list container */
-._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid {
-  scrollbar-width: 1px;
-  scrollbar-color: var(--accent-color) #20252b;
-} 
-
-._1ijTaXJJA5YWl_fW2IxcaT .ReactVirtualized__Grid::-webkit-scrollbar {
-  /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
-  border-radius: 10px;
-}
-
-._2AUVZlzQq67qe3yhLZsPPB::-webkit-scrollbar {
-  background: transparent;
-}
-
-
-/* Game library list */
-/* ._9sPoVBFyE_vE87mnZJ5aB ._3x1HklzyDs4TEjACrRO2tB {
-  background: var(--primary-bg-color);
-} */
-
-
 /* Game List item not highlighted */
 /* ._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph {
-  color: var(--secondary-bg-color);
 } */
 
 /* Game list item highlighted */
 /* ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
-  background-color: var(--secondary-bg-color);
-  border-radius: 4px;
 } */
 
 /* Game Profile -- game list item installed */
-/* ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {
-  color: black;
-} */
+/* ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE {} */
 
-/* ._2-O4ZG0KrnSrzISHBKctFQ {
-  color: var(--secondary-bg-color);
-} */
+/* ._2-O4ZG0KrnSrzISHBKctFQ {} */
