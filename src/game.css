@@ -143,13 +143,6 @@ polygon,
   display: none;
 }
 
-/** notes container */
-._5uvIN6jXDXzzck59F-nhv {
-  background: transparent;
-  padding: 10px;
-  border-radius: var(--border-radius);
-}
-
 /**
 ACTIVITY
 NEWS
@@ -180,9 +173,22 @@ border: none;
   border-radius: var(--border-radius);
 }
 
+
+/** New Content container **/
+._2UySYiE8fUGGugkHVm1Qb ._2kqz-bSlDu-I49_cV_wicB,
+/** New Content container (s) **/
+._38t1mljBjmJfqjpVzMT1CG,
+._2UySYiE8fUGGugkHVm1Qb ._2kqz-bSlDu-I49_cV_wicB,
 /** News item inner **/
-._1wJJQwnV-ssGrL0xveFujy {
-  background: var(--secondary-bg-color);
+._1wJJQwnV-ssGrL0xveFujy,
+/** notes container */
+._5uvIN6jXDXzzck59F-nhv,
+/** Additonal content container **/
+._2r4TK4BAuU-J4FuF_O7v_5 {
+  background: var(--tetiary-bg-color);
+  border: none;
+  border-radius: var(--border-radius);
+  box-shadow: none;
 }
 
 /********* 
