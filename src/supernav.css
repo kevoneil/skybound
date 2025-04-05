@@ -81,7 +81,9 @@
 
 /** announcements and notifications container */
 .RtSv39ZoBOySnb8XQ5hJf,
-._5wILZhsLODVwGfcJ0hKmJ {
-  background: none;
+._5wILZhsLODVwGfcJ0hKmJ,
+._5wILZhsLODVwGfcJ0hKmJ:hover {
+  background: transparent !important;
   padding-right: 0;
+  padding-left: 5px;
 }

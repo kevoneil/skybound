@@ -145,7 +145,7 @@ polygon,
 
 /** notes container */
 ._5uvIN6jXDXzzck59F-nhv {
-  background: #313843;
+  background: transparent;
   padding: 10px;
   border-radius: var(--border-radius);
 }
@@ -168,6 +168,21 @@ background: var(--primary-bg-color);
 background: var(--secondary-bg-color);
 border-radius: var(--border-radius);
 border: none;
+}
+
+
+/** News item container **/
+.S2Fu9HxHCA5MaCLGrN2ib,
+.fmLfuqm0Lxq5iPS5EHCAW,
+._3QRf-tp5VddAF00vWY5Gn8 {
+  background: transparent;
+  border: none;
+  border-radius: var(--border-radius);
+}
+
+/** News item inner **/
+._1wJJQwnV-ssGrL0xveFujy {
+  background: var(--secondary-bg-color);
 }
 
 /********* 
